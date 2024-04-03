@@ -26,17 +26,17 @@ st.write("#")
 
 col1, col2, col3, col4, col5, col6, col7= st.columns(7)
 with col1:
-    st.image(r"assets\awake2.jpg",width=100)
+    st.image(r"assets/awake2.jpg",width=100)
 with col2:
-    st.image(r"assets\wilde1.jpg",width=100)
+    st.image(r"assets/wilde1.jpg",width=100)
 with col3:
-    st.image(r"assets\kind.jpeg",width=100)
+    st.image(r"assets/kind.jpeg",width=100)
 with col4:
     st.write("#")
-    st.image(r"assets\chocoloney3.jpg",width=100)
+    st.image(r"assets/chocoloney3.jpg",width=100)
 with col5:
-    st.image(r"assets\lara.jpg",width=75)
+    st.image(r"assets/lara.jpg",width=75)
 with col6:
-    st.image(r"assets\popcorners.jpg",width=100)
+    st.image(r"assets/popcorners.jpg",width=100)
 with col7:
-    st.image(r"assets\grillos.png",width=100)
+    st.image(r"assets/grillos.png",width=100)
