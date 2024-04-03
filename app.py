@@ -1,4 +1,7 @@
 import streamlit as st
+import altair as alt
+
+alt.themes.enable("dark")
 
 st.set_page_config(page_title='godega.io',
                 #    page_icon='assets/Nevil.png',
